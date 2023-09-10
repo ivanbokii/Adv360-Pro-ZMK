@@ -53,7 +53,7 @@
       &trans           &trans                &trans     &trans        &trans     &trans             &none                                                     &trans    &trans      &trans      &trans      &trans  &bt BT_CLR  &bt BT_SEL 1
       &trans           &trans                &trans  &kp LSHFT  &kp LEFT_ALT  &kp LCTRL             &none  &trans     &trans                  &trans  &trans  &trans  &kp LEFT    &kp DOWN      &kp UP   &kp RIGHT      &trans  &bt BT_SEL 2
       &trans           &trans                &trans     &trans        &trans     &trans                            &kp PG_UP                  &trans                    &trans      &trans      &trans      &trans      &trans  &bt BT_SEL 3
- &bootloader  &rgb_ug RGB_TOG  &rgb_ug RGB_MEFS_CMD     &trans        &trans                       &trans   &none  &kp PG_DN                  &trans  &trans  &trans            &bl BL_DEC  &bl BL_INC  &bl BL_TOG      &trans   &bootloader
+ &bootloader  &rgb_ug RGB_TOG  &rgb_ug RGB_HUI     &rgb_ug RGB_HUD        &trans                       &trans   &none  &kp PG_DN                  &trans  &trans  &trans            &bl BL_DEC  &bl BL_INC  &bl BL_TOG      &trans   &bootloader
             >;
         };
 
