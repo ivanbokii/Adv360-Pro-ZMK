@@ -1,6 +1,6 @@
-window_management1: window_management1{
+macro_w_management1: macro_w_management1{
 compatible = "zmk,behavior-macro";
-label = "window_management1";
+label = "macro_w_management1";
 #binding-cells = <0>;
 bindings = <&macro_press &kp LSHFT>, <&macro_tap &kp TAB>;
 };
